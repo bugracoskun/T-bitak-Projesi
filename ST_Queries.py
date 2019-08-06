@@ -1,9 +1,10 @@
 ######################################################################
 # Project name: Open source library to analyse pickup/dropoff locations of taxi trips
 
-# Authors: Dr. Berk Anbaroglu
-# Initial contributors: Caglayan Askin, Serdar Darendelioglu
-# Date created: 2016 - 2018
+# Corresponding Developer: Dr. Berk Anbaroglu
+# Contributors: 
+# Ihsan Buğra Coşkun (2017-2018)
+# Caglayan Askin, Serdar Darendelioglu (2016)
 
 # Purpose: Analyse the query performance of Postgres and MongoDB. But could be extended to other DBMS.
 
