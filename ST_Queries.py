@@ -8,7 +8,6 @@
 
 # Purpose: Analyse the query performance of Postgres and MongoDB. But could be extended to other DBMS.
 
-# Relevant paper is submitted to the Transportation journal.
 
 # This library could be used for any purpose as long as the paper is cited.
 
